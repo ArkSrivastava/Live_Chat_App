@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/live-chat-app.git
+git clone https://github.com/ArkSrivastava/Live_Chat_App.git
 cd live-chat-app
 ```
 ### 2. Set Up the Backend
